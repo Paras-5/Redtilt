@@ -32,7 +32,7 @@ const Blog = () => {
               We bought all the Remix goodies over to React Router and made improvements in the process.Now it's time to bring those improved APIs back over to Remix where they started! 
             </p>
             <a
-              href="#"
+              href="#Hero"
               className="text-red-500 flex items-center font-medium hover:underline"
             >
               Read more
